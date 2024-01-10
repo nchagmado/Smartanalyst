@@ -1,0 +1,4 @@
+ 
+# smartanalyst module
+
+::: smartanalyst.smartanalyst
